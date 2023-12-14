@@ -1,0 +1,249 @@
+*********************Welcome to the Battle Arena!*****************************
+
+===========================Players info after creation=======================
+***player1***
+Attribute Details:
+{dexterity=11, constitution=17, strength=16, charisma=15}
+***player2***
+Attribute Details:
+{dexterity=11, constitution=10, strength=17, charisma=15}
+=========================Player info After Equipping Gears=============================
+***player1***
+Attribute Details:
+{dexterity=7, constitution=27, strength=30, charisma=23}
+***player2***
+Attribute Details:
+{dexterity=34, constitution=22, strength=17, charisma=21}
+==================================Gears Equipped=======================================
+***player1***
+Equipped Gears and Impact:
+Type of Gear:headgear, Name of Gear:headgearC, Impact of Gear:{constitution=1}
+Type of Gear:potion, Name of Gear:potionA, Impact of Gear:{constitution=-1}
+Type of Gear:potion, Name of Gear:potionD, Impact of Gear:{strength=3}
+Type of Gear:potion, Name of Gear:potionE, Impact of Gear:{strength=6}
+Type of Gear:potion, Name of Gear:potionF, Impact of Gear:{charisma=2}
+Type of Gear:potion, Name of Gear:potionK, Impact of Gear:{constitution=6}
+Type of Gear:potion, Name of Gear:potionM, Impact of Gear:{dexterity=-5}
+Type of Gear:potion, Name of Gear:potionO, Impact of Gear:{constitution=5}
+Type of Gear:belt, Name of Gear:beltA, Impact of Gear:{constitution=6, charisma=6}, size/Unit:4
+Type of Gear:belt, Name of Gear:beltF, Impact of Gear:{constitution=-5, strength=-1}, size/Unit:4
+Type of Gear:belt, Name of Gear:beltG, Impact of Gear:{constitution=-2, charisma=-1}, size/Unit:1
+Type of Gear:belt, Name of Gear:beltL, Impact of Gear:{strength=6, charisma=1}, size/Unit:1
+Type of Gear:footwear, Name of Gear:footwearB, Impact of Gear:{dexterity=1}
+***player2***
+Equipped Gears and Impact:
+Type of Gear:headgear, Name of Gear:headgearB, Impact of Gear:{constitution=4}
+Type of Gear:potion, Name of Gear:potionB, Impact of Gear:{charisma=5}
+Type of Gear:potion, Name of Gear:potionC, Impact of Gear:{strength=2}
+Type of Gear:potion, Name of Gear:potionG, Impact of Gear:{constitution=-2}
+Type of Gear:potion, Name of Gear:potionH, Impact of Gear:{dexterity=5}
+Type of Gear:potion, Name of Gear:potionI, Impact of Gear:{dexterity=-2}
+Type of Gear:potion, Name of Gear:potionJ, Impact of Gear:{dexterity=2}
+Type of Gear:potion, Name of Gear:potionL, Impact of Gear:{constitution=2}
+Type of Gear:potion, Name of Gear:potionN, Impact of Gear:{constitution=2}
+Type of Gear:belt, Name of Gear:beltB, Impact of Gear:{dexterity=4, constitution=6}, size/Unit:4
+Type of Gear:belt, Name of Gear:beltI, Impact of Gear:{dexterity=6, charisma=3}, size/Unit:4
+Type of Gear:belt, Name of Gear:beltJ, Impact of Gear:{dexterity=5, strength=4}, size/Unit:1
+Type of Gear:belt, Name of Gear:beltM, Impact of Gear:{strength=-6, charisma=-2}, size/Unit:1
+Type of Gear:footwear, Name of Gear:footwearC, Impact of Gear:{dexterity=3}
+==================================Weapons Equipped=====================================
+***player1***
+Weapon Name: weapon1
+***player2***
+Weapon Name: weapon2
+=================================Battle Begins===================================
+----Initial Health of Players----
+***player1***
+Health: 87
+***player2***
+Health: 94
+=>Round1
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=94}
+=>Round2
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=94}
+=>Round3
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=94}
+=>Round4
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=94}
+=>Round5
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=94}
+=>Round6
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=94}
+=>Round7
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=94}
+=>Round8
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=94}
+=>Round9
+{hit=Hit Happened, Damage opponents took=18, Attacker=player1, Health Player1=87, Health Player2=76}
+=>Round10
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=76}
+=>Round11
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=76}
+=>Round12
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=76}
+=>Round13
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=76}
+=>Round14
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=76}
+=>Round15
+{hit=Hit Happened, Damage opponents took=15, Attacker=player1, Health Player1=87, Health Player2=61}
+=>Round16
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=61}
+=>Round17
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=61}
+=>Round18
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=61}
+=>Round19
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=61}
+=>Round20
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=61}
+=>Round21
+{hit=Hit Happened, Damage opponents took=15, Attacker=player1, Health Player1=87, Health Player2=46}
+=>Round22
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=46}
+=>Round23
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=46}
+=>Round24
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=46}
+=>Round25
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=46}
+=>Round26
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=46}
+=>Round27
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=46}
+=>Round28
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=46}
+=>Round29
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=46}
+=>Round30
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=46}
+=>Round31
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=46}
+============Game Result==============
+It is a Draw
+
+Press Y for rematch or N to exit and hit enter:
+Y
+=================Rematch Initiated==================
+----Initial Health of Players----
+***player1***
+Health: 87
+***player2***
+Health: 94
+=>Round1
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=94}
+=>Round2
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=94}
+=>Round3
+{hit=Hit Happened, Damage opponents took=16, Attacker=player1, Health Player1=87, Health Player2=78}
+=>Round4
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=78}
+=>Round5
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=78}
+=>Round6
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=78}
+=>Round7
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=78}
+=>Round8
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=78}
+=>Round9
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=78}
+=>Round10
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=78}
+=>Round11
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=78}
+=>Round12
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=78}
+=>Round13
+{hit=Hit Happened, Damage opponents took=15, Attacker=player1, Health Player1=87, Health Player2=63}
+=>Round14
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=63}
+=>Round15
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=63}
+=>Round16
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=63}
+=>Round17
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=63}
+=>Round18
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=63}
+=>Round19
+{hit=Hit Happened, Damage opponents took=16, Attacker=player1, Health Player1=87, Health Player2=47}
+=>Round20
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=47}
+=>Round21
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=47}
+=>Round22
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=47}
+=>Round23
+{hit=Hit Happened, Damage opponents took=16, Attacker=player1, Health Player1=87, Health Player2=31}
+=>Round24
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=31}
+=>Round25
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=31}
+=>Round26
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=31}
+=>Round27
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=31}
+=>Round28
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=31}
+=>Round29
+{hit=Hit Happened, Damage opponents took=18, Attacker=player1, Health Player1=87, Health Player2=13}
+=>Round30
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=13}
+=>Round31
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=13}
+=>Round32
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=13}
+=>Round33
+{hit=Hit Happened, Damage opponents took=17, Attacker=player1, Health Player1=87, Health Player2=-4}
+============Game Result==============
+Winner is: player1
+
+Press Y for rematch or N to exit and hit enter:
+Y
+=================Rematch Initiated==================
+----Initial Health of Players----
+***player1***
+Health: 87
+***player2***
+Health: 94
+=>Round1
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=94}
+=>Round2
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=94}
+=>Round3
+{hit=Hit Happened, Damage opponents took=17, Attacker=player1, Health Player1=87, Health Player2=77}
+=>Round4
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=77}
+=>Round5
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=77}
+=>Round6
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=77}
+=>Round7
+{hit=Hit Happened, Damage opponents took=18, Attacker=player1, Health Player1=87, Health Player2=59}
+=>Round8
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=59}
+=>Round9
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=59}
+=>Round10
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=59}
+=>Round11
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=59}
+=>Round12
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=59}
+=>Round13
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=59}
+=>Round14
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=59}
+=>Round15
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=59}
+=>Round16
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player2, Health Player1=87, Health Player2=59}
+=>Round17
+{hit=No Hit Happened, Damage opponents took=0, Attacker=player1, Health Player1=87, Health Player2=59}
+============Game Result==============
+It is a Draw
+
+Press Y for rematch or N to exit and hit enter:
+N
+============Thank you for playing=============
